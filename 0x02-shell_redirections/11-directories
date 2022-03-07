@@ -1,0 +1,3 @@
+#!/bin/bash
+
+[Afind . -type d ! -path . -print | wc -l \[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
